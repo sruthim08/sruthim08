@@ -120,24 +120,19 @@ PLATFORM ENGINEERING
 
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sruthim08&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sruthim08&show_icons=true&theme=tokyonight&hide_rank=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sruthim08&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthim08&layout=compact&theme=tokyonight" />
 </p>
+
 
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sruthim08&style=flat-square&color=blue" />
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sruthim08.sruthim08"/>
 </p>
 
 ---
