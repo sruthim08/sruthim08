@@ -119,15 +119,6 @@ PLATFORM ENGINEERING
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sruthim08&show_icons=true&theme=tokyonight&hide_rank=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthim08&layout=compact&theme=tokyonight" />
-</p>
 
 
 ## 👀 Profile Views
@@ -137,4 +128,6 @@ PLATFORM ENGINEERING
 
 ---
 
-⭐ Thanks for visiting — feel free to ⭐ my repos!
+<p align="center">
+  ⭐ Thanks for visiting — feel free to ⭐ my repos!
+</p>
