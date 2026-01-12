@@ -139,7 +139,7 @@ PLATFORM ENGINEERING
 
 | 📊 **Interactive Sales Dashboard** | End-to-end Power BI dashboard with advanced DAX measures, drill-through analysis, and automated refreshes. Reduced manual reporting time by 80%. | ![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-green) ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql) | 🔗 [View Code](https://app.powerbi.com/groups/me/reports/d1308f4e-8b8e-4f7b-a979-7e82e666a7db/98f522f23bcfa1b64a32?experience=power-bi) |
 
-| 📱 **Statistical Analysis of Google Play Store Apps** | Analyzed 10,000+ apps using regression & ANOVA to identify drivers of popularity. Built statistical models to quantify relationships between app characteristics and ratings. | ![R](https://img.shields.io/badge/R-blue?logo=r) ![Statistics](https://img.shields.io/badge/Statistics-orange) | 🔗 [View Code](https://github.com/sruthim08/Statistical-Analysis-of-Google-Play-Store-Applications) |
+| 📱 **Google-Play-Store-Data-Analysiss** | Analyzed 10,000+ apps using regression & ANOVA to identify drivers of popularity. Built statistical models to quantify relationships between app characteristics and ratings. | ![R](https://img.shields.io/badge/R-blue?logo=r) ![Statistics](https://img.shields.io/badge/Statistics-orange) | 🔗 [View Code](https://github.com/sruthim08/Statistical-Analysis-of-Google-Play-Store-Applications) |
 
 | 🏦 **Banking System Database** | Designed a normalized MySQL database for core banking operations. Implemented stored procedures for transactions and SQL views for reporting. | ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql) ![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql) | 🔗 [View Code](https://github.com/sruthim08/Banking-System) |
 
