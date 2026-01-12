@@ -137,23 +137,17 @@ PLATFORM ENGINEERING
 | Project | Description | Tech Stack | Code |
 |--------|-------------|------------|------|
 
-| 🎓 **SkillBridge – Student & Teacher Platform** | Full-stack web application connecting students and instructors with secure authentication, role-based dashboards, and integrated payments. Implemented JWT + session-based auth, Google OAuth, Stripe payments, and MongoDB data models. | ![React](https://img.shields.io/badge/React-blue?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js) ![Express](https://img.shields.io/badge/Express-black?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb) ![JWT](https://img.shields.io/badge/JWT-black) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe) | 🔗 [View Code](https://github.com/sruthim08/Skill_Bridge/tree/main) |
-
+| 📊 **Interactive Sales Dashboard** | End-to-end Power BI dashboard with advanced DAX measures, drill-through analysis, and automated refreshes. Reduced manual reporting time by 80%. | ![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-green) ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql) | 🔗 [View Code](https://app.powerbi.com/groups/me/reports/d1308f4e-8b8e-4f7b-a979-7e82e666a7db/98f522f23bcfa1b64a32?experience=power-bi) |
 
 | 📱 **Statistical Analysis of Google Play Store Apps** | Analyzed 10,000+ apps using regression & ANOVA to identify drivers of popularity. Built statistical models to quantify relationships between app characteristics and ratings. | ![R](https://img.shields.io/badge/R-blue?logo=r) ![Statistics](https://img.shields.io/badge/Statistics-orange) | 🔗 [View Code](https://github.com/sruthim08/Statistical-Analysis-of-Google-Play-Store-Applications) |
 
-
-| 📊 **Interactive Sales Dashboard** | End-to-end Power BI dashboard with advanced DAX measures, drill-through analysis, and automated refreshes. Reduced manual reporting time by 80%. | ![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-green) ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql) | 🔗 [View Code](https://app.powerbi.com/groups/me/reports/d1308f4e-8b8e-4f7b-a979-7e82e666a7db/98f522f23bcfa1b64a32?experience=power-bi) |
-
-
 | 🏦 **Banking System Database** | Designed a normalized MySQL database for core banking operations. Implemented stored procedures for transactions and SQL views for reporting. | ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql) ![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql) | 🔗 [View Code](https://github.com/sruthim08/Banking-System) |
 
+| 🎓 **SkillBridge – Student & Teacher Platform** | Full-stack web application connecting students and instructors with secure authentication, role-based dashboards, and integrated payments. Implemented JWT + session-based auth, Google OAuth, Stripe payments, and MongoDB data models. | ![React](https://img.shields.io/badge/React-blue?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js) ![Express](https://img.shields.io/badge/Express-black?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb) ![JWT](https://img.shields.io/badge/JWT-black) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe) | 🔗 [View Code](https://github.com/sruthim08/Skill_Bridge/tree/main) |
 
 | 🏠 **Property Management System** | Java Swing desktop app consolidating listings, maintenance, and loans. Features multi-enterprise architecture and role-based access control. | ![Java](https://img.shields.io/badge/Java-red?logo=java) ![Swing](https://img.shields.io/badge/Swing-lightgrey) | 🔗 [View Code](https://github.com/sruthim08/Property_Management_System) |
 
-
 | 🚫 **Nudity Detection System** | Pixel-based detection system using YCbCr space to classify explicit content with 91% accuracy. Includes automated email alerts for moderation. | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![MATLAB](https://img.shields.io/badge/MATLAB-orange) | 🔗 [View Code](https://github.com/sruthim08/Nudity_Detection) |
-
 
 | 🏨 **Hotel Management System** | Web-based system for managing room availability and reservations with 87% accuracy. Integrated secure authentication and real-time booking. | ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 
