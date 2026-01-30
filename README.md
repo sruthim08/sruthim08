@@ -137,6 +137,8 @@ PLATFORM ENGINEERING
 | Project | Description | Tech Stack | Code |
 |--------|-------------|------------|------|
 
+| 🤖 **LLM Support Ticket Intelligence Pipeline** | Built a batch data pipeline to process real-world customer support tickets and enrich them with structured insights such as issue category, severity, and short summaries. Implemented a modular LLM-style classification layer (mocked for cost-efficient development) with a design ready for GPT-based integration. | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas) ![ETL](https://img.shields.io/badge/ETL-Pipeline-orange) ![LLM](https://img.shields.io/badge/LLM-AI-green) | 🔗 [View Code](https://github.com/sruthim08/LLM_ticket_project) |
+
 | 📊 **Interactive Sales Dashboard** | End-to-end Power BI dashboard with advanced DAX measures, drill-through analysis, and automated refreshes. Reduced manual reporting time by 80%. | ![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-green) ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql) | 🔗 [View Code](https://app.powerbi.com/groups/me/reports/d1308f4e-8b8e-4f7b-a979-7e82e666a7db/98f522f23bcfa1b64a32?experience=power-bi) |
 
 | 📱 **Statistical Analysis of Google Play Store Apps** | Analyzed 10,000+ apps using regression & ANOVA to identify drivers of popularity. Built statistical models to quantify relationships between app characteristics and ratings. | ![R](https://img.shields.io/badge/R-blue?logo=r) ![Statistics](https://img.shields.io/badge/Statistics-orange) | 🔗 [View Code](https://github.com/sruthim08/Statistical-Analysis-of-Google-Play-Store-Applications) |
